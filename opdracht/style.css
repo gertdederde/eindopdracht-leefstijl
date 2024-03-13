@@ -1,0 +1,15 @@
+
+    input[name="bereken"] {
+        text-align: center;
+        margin-top: 16px;
+        padding: 10px 16px;
+        font-size: 18px;
+    }
+    
+    input[name="lengte"],
+    input[name="gewicht"] {
+        text-align: center;
+        margin-top: 16px;
+        padding: 10px 16px;
+        font-size: 16px;
+    }
